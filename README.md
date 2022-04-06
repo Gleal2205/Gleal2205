@@ -1,4 +1,6 @@
-- My name is: Gustavo Leal
-- I live in Curitiba, Brazil
-- My favorito hobby is tô play vídeo games
-- 
+- My name is Gustavo Leal
+Live in Curitiba,From Brazil
+My favorite hobby is playing vídeo game
+
+
+ 
